@@ -1,3 +1,11 @@
+***
+andreasl:
+applied patch for fuzzy matching from https://tools.suckless.org/dmenu/patches/fuzzymatch/
+
+via command line option `-F`
+***
+
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
